@@ -1,0 +1,14 @@
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\bin\Debug\net8.0\Lab002Inheritance.exe
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\bin\Debug\net8.0\Lab002Inheritance.deps.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\bin\Debug\net8.0\Lab002Inheritance.runtimeconfig.json
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\bin\Debug\net8.0\Lab002Inheritance.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\bin\Debug\net8.0\Lab002Inheritance.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.AssemblyInfoInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.AssemblyInfo.cs
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\refint\Lab002Inheritance.dll
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.pdb
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\Lab002Inheritance.genruntimeconfig.cache
+C:\Users\ailto\OneDrive\Documentos\Software Development\CPRG-211 - Object-Oriented Programming 2\Lab002Inheritance\obj\Debug\net8.0\ref\Lab002Inheritance.dll
